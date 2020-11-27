@@ -4,3 +4,4 @@
 - Open the terminal
 - Go to the location 'sports-api' directory.
 - run the command 'npm start' to run the application.
+- For login use the Username - 'Dragan' and Password - 'Dragan'.
