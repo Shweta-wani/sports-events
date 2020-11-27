@@ -1,0 +1,74 @@
+[
+    {
+        "id": "E-1",
+        "name": "Football",
+        "description": "Bundesliga-2018",
+        "start": "13:00:00",
+        "end": "16:00:00",
+        "location": "München"
+    },
+    {
+        "id": "E-2",
+        "name": "Football",
+        "description": "Bundesliga-2019",
+        "start": "12:00:00",
+        "end": "15:00:00",
+        "location": "Frankfurt"
+    },
+    {
+        "id": "E-3",
+        "name": "Football",
+        "description": "Bundesliga-2020",
+        "start": "16:00:00",
+        "end": "19:00:00",
+        "location": "Stuttgart"
+    },
+    {
+        "id": "T20-2020",
+        "name": "Cricket",
+        "description": "Cricket-2020",
+        "start": "12:00:00",
+        "end": "15:00:00",
+        "location": "Mumbai"
+    },
+    {
+        "id": "T20-2019",
+        "name": "Cricket",
+        "description": "Cricket-2019",
+        "start": "16:00:00",
+        "end": "19:00:00",
+        "location": "County Ground, Bristol"
+    },
+    {
+        "id": "T20-2018",
+        "name": "Cricket",
+        "description": "Cricket-2018",
+        "start": "09:00:00",
+        "end": "12:00:00",
+        "location": "Riverside Ground, Chester-le-Street"
+    },
+    {
+        "id": "FIH-2018",
+        "name": "Hockey",
+        "description": "Indian hockey team FIH 2018",
+        "start": "09:00:00",
+        "end": "12:00:00",
+        "location": "London"
+    },
+    {
+        "id": "FIH-2019",
+        "name": "Hockey",
+        "description": "Indian hockey team FIH 2019 ",
+        "start": "12:00:00",
+        "end": "15:00:00",
+        "location": "New-Delhi"
+    },
+    {
+        "id": "FIH-2020",
+        "name": "Hockey",
+        "description": "Indian hockey team FIH 2020",
+        "start": "16:00:00",
+        "end": "19:00:00",
+        "location": "Berlin"
+    }
+]

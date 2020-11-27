@@ -1,0 +1,62 @@
+.loggeduser{
+    background-color: lightgray;
+    width: 100%;
+    height: 40px;
+}
+
+.loggeduser ul{
+    padding-top: 4px;
+}
+
+.loggeduser li{
+    list-style: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: lightgray;
+}
+
+.menu{
+    width: fit-content;
+    position: fixed;
+    z-index: 2;
+}
+
+.menu li{
+    cursor: pointer;
+}
+
+.profile{
+ width: 100%;
+}
+
+.eventtable, .usertable {
+    margin-top: 10px;
+    position: relative;
+    z-index: 1;
+}
+
+.eventtable thead th, .usertable thead th{
+    vertical-align: top;
+}
+
+#map{
+    position: relative;
+    z-index: 19;
+}
+
+#marker{
+    position: fixed;
+    z-index: 20;
+}
+
+.usertable{
+    width: 80%;
+}
+.usertable td{
+    text-align: end;
+}
+
+.fas {
+    font-size: 1.3rem;
+    cursor: pointer;
+}
