@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "concurrently \"nodemon ./bin/www \" \"cd ./sports && npm start \" "
+    "start": "concurrently \"nodemon ./bin/www \" \"cd ../sports && npm start \" "
   },
   "dependencies": {
     "body-parser": "^1.19.0",
