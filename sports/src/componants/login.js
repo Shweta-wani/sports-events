@@ -68,7 +68,7 @@ class Login extends Component {
         { withCredentials: true }
       )
       .then(response => {
-        let loginUser = users.map((value) => value).filter(value => value.name === username && value.password === password);
+        let loginUser = users.map((value) => value).filter(value => value.name.toLowerCase() === username.toLowerCase() && value.password === password);
         let params = loginUser[0].name;
         this.props.handleLogin(loginUser, users);
         this.props.history.push("/users/" + params);
